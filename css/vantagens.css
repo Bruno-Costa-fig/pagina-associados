@@ -1,0 +1,48 @@
+/* VANTAGENS */
+
+.vantagens {
+    height: 100vh;
+}
+
+.vantagens_titulo {
+    margin: 1em auto;
+    color: rgba(20, 95, 235, 0.7);
+    font-weight: bold;
+    width: 70%;
+    text-align: center;
+    font-size: 3em;
+}
+
+.img-vantagens {
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 1em;
+    border-radius: 2em;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023.98px) {
+
+    .vantagens_titulo {
+        margin-bottom: 1em;
+        font-size: 2em;
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .vantagens {
+        background: url('../assets/img/vantagens-img.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        color: #fff;
+        height: auto;
+    }
+
+    .vantagens_titulo {
+        width: 80%;
+        margin-bottom: 1em;
+        margin-top: 1em;
+        font-size: 2em;
+        color: #fff;
+    }
+}

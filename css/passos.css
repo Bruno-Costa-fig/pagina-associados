@@ -1,0 +1,61 @@
+
+/* PASSOS */
+
+.passos {
+    background-color: #dbe6ff;
+    height: 100vh;
+}
+
+.passos_titulo {
+    margin: 1em auto;
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.wrapper_passos {
+    border-top: solid 4px rgba(20, 95, 235, 0.7);
+    background-color: rgba(246, 249, 253, 0.856);
+}
+
+.passo-1, .passo-2 , .passo-3 {
+    padding: 1em;
+}
+
+.marks {
+    width: 2em;
+    height: 2em;
+    background-image: linear-gradient(to top, rgb(23, 150, 235), rgb(24, 8, 247));
+    border-radius: 50%;
+    top: 0;
+    transform: translate(8em, -2.2em);
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023.98px) {
+    
+    .marks {
+        transform: translate(5em, -2.2em);
+    }
+    
+}
+
+@media screen and (max-width: 767.98px) {
+    .wrapper_passos {
+        border: none;
+        background-color: initial;
+    }
+
+    .passos_titulo {
+        margin-top: 1em;
+        margin-bottom: 0;
+        font-size: 2em;
+    }
+
+    .passos h2 {
+        border-bottom: solid 2px rgba(20, 95, 235, 0.7);
+        width: 4em;
+    }
+    
+    .marks {
+        display: none;
+    }
+}

@@ -1,0 +1,31 @@
+== HEADER
+
+-> H1 - Recomende nosso plano. Ganhe comições!
+
+-> BUTTON - Inscreva-se
+
+== APRESENTAÇÃO
+
+-> H2 - Associados parceiros [Nome abreviado da funerária] : o programa de marketing de afiliados da [Nome conhecido da funerária]
+
+-> P - Seja bem-vindo a um dos maiores programas de marketing de afiliados da [cidade do cliente]. O Programa de associados parceiros da [Nome abreviado da funerária] ajuda os moradores das cidades próximas de [cidade do cliente] a terem uma renda extra apenas por terem compartilhado o link do nosso plano [como o cliente chama o plano dele] para novos clientes!
+
+== PASSOS
+
+# steps
+
+-> h3 - Passo 1
+
+-> p - Inscreva-se
+
+-> p - Junte-se a vários outros Afiliados que estão buscando uma renda extra rápida.
+
+-> h3 - Passo 2
+
+-> p - Recomende
+
+-> p - Compartilhe o link com quem você acredita que deveria ter o nosso plano.
+
+
+https://pixabay.com/pt/photos/estudantes-computadores-1807505/
+
